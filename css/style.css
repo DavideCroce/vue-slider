@@ -11,4 +11,25 @@ body{
 }
 
 
+/* SPECIFICS */
 
+.bg-ddgb{
+    background-color: dodgerblue;
+    width: 100vw;
+    height: 100vh;
+}
+
+h1{
+    border: solid 2px white;
+    background-color: blue;
+    color: white;
+}
+
+.norm-size{
+    height: 400px;
+    width: 650px;
+}
+
+.fas{
+    cursor: pointer;
+}
